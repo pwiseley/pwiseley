@@ -1,6 +1,7 @@
 # Petiton Wiseley
 
-Software engineering student at Université Laval. I build solo projects and team projects — backend systems, UIs, infrastructure. I care about code that's readable and maintainable over code that's impressive.
+Software engineering student at Université Laval. I build solo projects and team projects — backend systems, UIs, infrastructure. <br>
+I care about code that's readable and maintainable over code that's impressive.
 
 I want to ship products that bring real value to people.
 
