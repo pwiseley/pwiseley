@@ -11,7 +11,7 @@ I want to ship products that bring real value to people.
 
 - [**HeatMyFloor**](https://github.com/pwiseley/HeatMyFloor-app) -> Java desktop app modeling heated floor wire paths with constraint-based path generation.
 - [**Toastmasters Platform**](https://github.com/pwiseley/ToastmastersFSA-app) -> Full-stack club management system for a speaking club with analytics dashboard, etc.
-- [**floppa-project**](https://github.com/pwiseley/Floppa-app) -> Marketplace Backend, REST API built with Java/Jersey, TDD, and a Docker/GHCR CI/CD pipeline.
+- [**Floppa-MarketPlace**](https://github.com/pwiseley/Floppa-app) -> Marketplace Backend, REST API built with Java/Jersey, TDD, and a Docker/GHCR CI/CD pipeline.
 - [**UTasks**](https://github.com/pwiseley/UTasks-app) -> Trello-like task manager with drag-and-drop boards and real-time user chat via Socket.io.
 - [**UFood**](https://github.com/pwiseley/UFood-app) -> Restaurant discovery platform with map-based search, favorites, and visit tracking.
 - [**Smart City - Autonomous Delivery Robots**](https://github.com/pwiseley/SmartCity-DeliveryRobot) -> ROS2-based rover navigating a smart city to transport goods autonomously.
